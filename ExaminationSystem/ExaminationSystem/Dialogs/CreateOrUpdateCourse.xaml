@@ -1,0 +1,68 @@
+﻿<Window x:Class="ExaminationSystem.CreateOrUpdateCourse"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExaminationSystem"
+         xmlns:hc="https://handyorg.github.io/handycontrol" xmlns:hc1="http://schemas.microsoft.com/netfx/2009/xaml/presentation" 
+        mc:Ignorable="d"
+       Title="CreateOrUpdateCourse" Height="450" Width="800" AllowsTransparency="True" WindowStyle="None" WindowStartupLocation="CenterScreen">
+
+    <Grid>
+        <Button Content="X" Width="50" HorizontalAlignment="Right" VerticalAlignment="Top"  BorderThickness="2,2,2,2"  Click="Button_Click"/>
+
+        <Rectangle Fill="#4A148C" HorizontalAlignment="Left" Height="450" VerticalAlignment="Top" Width="178.795"/>
+        <Grid x:Name="Basic_Details" HorizontalAlignment="Left" Height="450" Margin="178.795,0,0,0" VerticalAlignment="Top" Width="621.205" RenderTransformOrigin="0.5,0.5">
+            <Grid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Grid.RenderTransform>
+            <TextBlock HorizontalAlignment="Left" Height="27.268" Margin="28.125,50,0,30" TextWrapping="Wrap" Text="Course" VerticalAlignment="Top" Width="562.5" FontSize="30" FontFamily="Open Sans" Foreground="#4A148C"/>
+            <hc:TextBox BorderBrush="#4A148C" hc:InfoElement.Placeholder="Course Name" HorizontalAlignment="Left"  Height="35" Margin="27.205,110,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="266" Name="txtcourseName"/>
+            <hc:TextBox BorderBrush="#4A148C" hc:InfoElement.Placeholder="Duration" HorizontalAlignment="Left" Height="35" Margin="315.205,110,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="266" Name="txtDuration"/>
+            <hc:TextBox BorderBrush="#4A148C" hc:InfoElement.Placeholder="Topics" HorizontalAlignment="Left" Height="65" Margin="25,150,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="266" Name="txtTopics" hc:TitleElement.Title="Topics"/>
+            <!--<hc:ComboBox BorderBrush="#4A148C"  SelectionBrush="#4A148C" SelectedIndex="0" Name="ComboTopic" hc:TitleElement.Title="Topics" Margin="28.125,150,328,0" Text="Topics" Loaded="ComboTopic_Loaded">
+                
+            </hc:ComboBox>-->
+            <hc:ComboBox BorderBrush="#4A148C" Text="Instructor" Name="ComboInstructor" StaysOpenOnEdit="True" IsEditable="True" IsTextSearchEnabled="True" DataContextChanged="ComboInstructor_DataContextChanged"  Loaded="ComboInstructor_Loaded" SelectionBrush="#4A148C"  hc:TitleElement.Title="Instructor" Margin="25,240,331,0">
+                <hc:ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <CheckBox Name="chkInstructor" Checked="chkInstructor_Checked"   Content="{Binding Instr_Name}" CommandParameter="{Binding Path=IsChecked, RelativeSource={RelativeSource Self}}">
+                            <!--CommandParameter="{Binding Dept_ID}"-->
+                        </CheckBox>
+                    </DataTemplate>
+                </hc:ComboBox.ItemTemplate>
+            </hc:ComboBox>
+            <hc:ComboBox Text="Department" StaysOpenOnEdit="True" IsEditable="True" IsTextSearchEnabled="True" DataContextChanged="ComboDepartment_DataContextChanged" Loaded="ComboDepartment_Loaded" BorderBrush="#4A148C"   SelectionBrush="#4A148C"  hc:TitleElement.Title="Department" Margin="315,161,39,161"  Name="ComboDepartment" >
+                <hc:ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <CheckBox Name="chkDepartment" Checked="chkDepartment_Checked"  Content="{Binding Dept_Name}" CommandParameter="{Binding Path=IsChecked, RelativeSource={RelativeSource Self}}">
+                            <!--CommandParameter="{Binding Dept_ID}"-->
+                        </CheckBox>
+                    </DataTemplate>
+                </hc:ComboBox.ItemTemplate>
+            </hc:ComboBox>
+            <!--<hc:ComboBox Name="dept" BorderBrush="#4A148C"  SelectionBrush="#4A148C"  SelectedIndex="0" hc:TitleElement.Title="Department"  IsEditable="True" IsTextSearchEnabled="True" SelectionChanged="ddlDept_SelectionChanged"  Margin="315,150,40,225" >
+                -->
+            <!--<ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <CheckBox Name="chkDept" Width="220"  Checked="AllCheckbocx_CheckedAndUnchecked" Content="{Binding Dept_Name}" CommandParameter="{Binding Dept_ID}">
+                        </CheckBox>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>-->
+            <!--<hc:TextBox Text="CS"/>
+                <hc:TextBox Text="IS"/>
+                <ListBoxItem Content="IT"/>-->
+            <!--
+            </hc:ComboBox>-->
+
+            <Button Content="Add" Width="100" HorizontalAlignment="Left" Margin="491,360,0,58" Click="Button_Click_1"  BorderThickness="2,2,2,2" Name="btnAdd" ></Button>
+        </Grid>
+
+    </Grid>
+</Window>
+

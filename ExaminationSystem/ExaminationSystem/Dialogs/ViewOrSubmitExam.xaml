@@ -1,0 +1,45 @@
+﻿<Window x:Class="ExaminationSystem.Dialogs.ViewOrSubmitExam"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExaminationSystem.Dialogs"
+        mc:Ignorable="d"
+       Title="ViewOrSubmitExam" Height="450" Width="800" AllowsTransparency="True" WindowStyle="None" WindowStartupLocation="CenterScreen">
+
+
+    <Grid>
+
+        <Rectangle Fill="#4A148C" HorizontalAlignment="Left" Height="450" VerticalAlignment="Top" Width="178.795" />
+        <ScrollViewer VerticalScrollBarVisibility="Visible">
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.2*"/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <TextBlock Grid.Row="0" HorizontalAlignment="Left" Height="27.268" Margin="188.805,30,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="Basic Details" Width="562.5" FontSize="20" FontFamily="Open Sans" Foreground="#4A148C"/>
+                <WrapPanel Grid.Row="1" Name="MainWrap">
+                    <Grid x:Name="Basic_Details" HorizontalAlignment="Left"   Margin="178.795,0,0,30"  Width="621.205" Visibility="Collapsed" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <TextBlock HorizontalAlignment="Left" Grid.Row="0"  Margin="28.125,0,0,0"  Name="firstQuestionHeader">First Question</TextBlock>
+                        <RadioButton GroupName="f1" HorizontalAlignment="Left" Grid.Row="1" Margin="28,5,0,0"  Content="True"></RadioButton>
+                        <RadioButton GroupName="f1" HorizontalAlignment="Left" Grid.Row="2" Margin="28,5,0,0" Content="False"/>
+                    </Grid>
+                </WrapPanel>
+                <Button x:Name="SumbitBtn" BorderBrush="#4A148C" Background="#4A148C"  Click="Button_Click"  HorizontalAlignment="Right" VerticalAlignment="Top" Foreground="#fff" Grid.Row="2" Margin="0,160,0,0">Submit</Button>
+            </Grid>
+        </ScrollViewer>
+    </Grid>
+</Window>

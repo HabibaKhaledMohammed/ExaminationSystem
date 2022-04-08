@@ -1,0 +1,225 @@
+﻿<UserControl x:Class="ExaminationSystem.UserControls.CourseDetails"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExaminationSystem.UserControls" xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d" Width="1208">
+    <UserControl.Resources>
+        <Style TargetType="DataGridColumnHeader">
+            <Setter Property="Background" Value="#ff2c3e50"/>
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="FontSize" Value="12"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Foreground" Value="White"/>
+
+        </Style>
+
+        <Style TargetType="DataGrid">
+            <Setter Property="VerticalGridLinesBrush" Value="#4b6584"/>
+            <Setter Property="HorizontalGridLinesBrush" Value="#4b6584"/>
+            <Setter Property="AlternatingRowBackground" Value="#ff2c3e50"/>
+            <Setter Property="RowBackground" Value="#34495e"/>
+            <Setter Property="RowHeight" Value="25"/>
+            <Setter Property="RowHeaderWidth" Value="0"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="VerticalScrollBarVisibility" Value="Hidden"/>
+        </Style>
+    </UserControl.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.Resources>
+            <Style TargetType="materialDesign:PackIcon">
+                <Setter Property="Width" Value="30"></Setter>
+                <Setter Property="Height" Value="30"></Setter>
+            </Style>
+        </Grid.Resources>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Column="0" Background="#F6F6F8" Grid.RowSpan="1" >
+            <StackPanel Margin="10">
+                <Grid Height="60">
+                    <Button  HorizontalAlignment="Left"
+                     BorderBrush="{x:Null}" Background="{x:Null}">
+                        <StackPanel Margin="-5">
+                            <materialDesign:PackIcon Kind="ArrowLeft" Foreground="Gray" MouseDown="PackIcon_MouseDown" />
+                        </StackPanel>
+                    </Button>
+                    <ComboBox HorizontalAlignment="Right" Width="100" materialDesign:HintAssist.Hint="Options"   Margin="0,0,0,30">
+                        <ComboBoxItem>
+                            <TextBlock Text="Update Course" TextAlignment="Center" MouseDown="TextBlock_MouseDown" />
+                        </ComboBoxItem>
+
+                    </ComboBox>
+                </Grid>
+                <materialDesign:Card Margin="10" UniformCornerRadius="20" Padding="10" Background="#4A148C" Width="1100">
+                    <StackPanel>
+
+                        <Grid Height="50">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition />
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+
+                                <RowDefinition />
+                            </Grid.RowDefinitions>
+                            <TextBlock Text="Course Details" Grid.Column="0" Grid.Row="0" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="25" FontWeight="SemiBold" />
+                        </Grid>
+                    </StackPanel>
+                </materialDesign:Card>
+                <materialDesign:Card Margin="10" UniformCornerRadius="20" Padding="10" Background="white" Width="1100">
+                    <StackPanel>
+
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="0.2*" />
+                                <ColumnDefinition Width="0.8*" />
+                            </Grid.ColumnDefinitions>
+
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="1*"/>
+                                <RowDefinition Height="1*"/>
+                                <RowDefinition Height="1*"/>
+                            </Grid.RowDefinitions>
+
+                            <TextBlock Text="Course Name: " Grid.Column="0" Grid.Row="0" Foreground="Black" HorizontalAlignment="left" VerticalAlignment="Center" FontSize="25" FontWeight="SemiBold"  Margin="30 20 0 0 "/>
+                            <TextBlock x:Name="courseName" Text="C#" Grid.Column="1" Grid.Row="0" Foreground="Black" HorizontalAlignment="left" VerticalAlignment="Center" FontSize="25" FontWeight="SemiBold"  Margin="20 20 0 0 "/>
+
+
+                            <TextBlock Text="Course Duration: " Grid.Column="0" Grid.Row="1" Foreground="Black" HorizontalAlignment="left" VerticalAlignment="Center" FontSize="25" FontWeight="SemiBold"  Margin="30 20 0 0 "/>
+                            <TextBlock x:Name="crsDuration" Text="15 hour" Grid.Column="1" Grid.Row="1" Foreground="Black" HorizontalAlignment="left" VerticalAlignment="Center" FontSize="25" FontWeight="SemiBold"  Margin="20 20 0 0 "/>
+
+                            <TextBlock Text="Department: " Grid.Column="0" Grid.Row="2" Foreground="Black" HorizontalAlignment="left" VerticalAlignment="Center" FontSize="25" FontWeight="SemiBold"  Margin="30 20 0 0 "/>
+                            <TextBlock x:Name="crsDept" Text="SD" Grid.Column="1" Grid.Row="2" Foreground="Black" HorizontalAlignment="left" VerticalAlignment="Center" FontSize="25" FontWeight="SemiBold"  Margin="20 20 0 0 "/>
+                        </Grid>
+                    </StackPanel>
+                </materialDesign:Card>
+                <materialDesign:Card Margin="40,5,0,5" UniformCornerRadius="20" Padding="10" Background="#4A148C" Width="200" HorizontalAlignment="left" >
+                    <StackPanel>
+
+                        <Grid Height="50">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition />
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+
+                                <RowDefinition />
+                            </Grid.RowDefinitions>
+                            <TextBlock Text="Instructors" Grid.Column="0" Grid.Row="0" Foreground="White" HorizontalAlignment="left" VerticalAlignment="Center" FontSize="25" FontWeight="SemiBold" />
+                        </Grid>
+                    </StackPanel>
+                </materialDesign:Card>
+                <materialDesign:Card Margin="10" UniformCornerRadius="20" Padding="10" Background="white" Width="1100"  >
+                    <WrapPanel Margin="10" x:Name="InstructorWrapper">
+                        <Grid Width="1100" Background="#F3E5F5" Margin="0,0,0,20" >
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="0.25*"/>
+                                <ColumnDefinition Width="0.75*"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBlock Text="Instructor Title" Grid.Column="0" Foreground="Black" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="25" FontWeight="SemiBold"  Margin="30,0, 0, 0"/>
+                            <TextBlock Text="Name" Grid.Column="1"  Foreground="Black" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="25" FontWeight="SemiBold" />
+                        </Grid>
+                        <Grid Width="1100" Visibility="Collapsed">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="0.25*"/>
+                                <ColumnDefinition Width="0.75*"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBlock Text="Main Instructor" Grid.Column="0" Foreground="Black" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="25" FontWeight="SemiBold" Margin="30,0, 0, 0" />
+                            <TextBlock Text="Ahmed " Grid.Column="1"  Foreground="Black" HorizontalAlignment="left" VerticalAlignment="Center" FontSize="25" FontWeight="SemiBold" />
+                        </Grid>
+
+                    </WrapPanel>
+
+
+                </materialDesign:Card>
+                <materialDesign:Card  Margin="40,5,0,5" UniformCornerRadius="20" Padding="10" Background="#4A148C" Width="200" HorizontalAlignment="left">
+                    <StackPanel>
+
+                        <Grid Height="50">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition />
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+
+                                <RowDefinition />
+                            </Grid.RowDefinitions>
+                            <TextBlock Text="Topics" Grid.Column="0" Grid.Row="0" Foreground="White" HorizontalAlignment="left" VerticalAlignment="Center" FontSize="25" FontWeight="SemiBold" />
+                        </Grid>
+                    </StackPanel>
+                </materialDesign:Card>
+                <materialDesign:Card Margin="10" UniformCornerRadius="20" Padding="10" Background="white" Width="1100">
+                    <StackPanel>
+                        <WrapPanel Name="TopicsWrapper" HorizontalAlignment="Left">
+
+                            <Button  Background="#C51162" BorderBrush="#C78585" Width="50px"  Margin="10,0,10,0" Visibility="Collapsed">
+                                C#
+                            </Button>
+
+                        </WrapPanel>
+                    </StackPanel>
+                </materialDesign:Card>
+                <materialDesign:Card  UniformCornerRadius="20" Padding="10" Width="1200" Background="Transparent" HorizontalAlignment="left" Name="ExamHeader">
+
+                    <Grid >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="0.8*" />
+                            <ColumnDefinition Width="0.2*" />
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition />
+                        </Grid.RowDefinitions>
+                        <materialDesign:Card  Margin="30,5,0,5" UniformCornerRadius="20" Padding="10" Background="#4A148C" Width="200" HorizontalAlignment="left" Grid.Column="0" Grid.Row="0">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition />
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition />
+                                </Grid.RowDefinitions>
+                                <TextBlock Text="Exams" Grid.Column="0" Grid.Row="0" Foreground="White" HorizontalAlignment="left" VerticalAlignment="Center" FontSize="25" FontWeight="SemiBold" />
+                            </Grid>
+                        </materialDesign:Card>
+                        <Button Grid.Column="1" Name="createExam" Grid.Row="0" Background="White" BorderBrush="#C78585" Foreground="#4A148C" FontSize="22px" Height="50px" Margin="23,0,50,10" Click="Button_Click" VerticalAlignment="Bottom">
+                            Create Exam
+                        </Button>
+                    </Grid>
+                </materialDesign:Card>
+                <materialDesign:Card Margin="10" UniformCornerRadius="20" Padding="10" Background="white" Width="1100" Name="ExamContent">
+                    <StackPanel>
+                        <WrapPanel Name="ExamWrapper" HorizontalAlignment="Left">
+                            <materialDesign:Card Margin="10" UniformCornerRadius="20" Padding="10" Width="200" Visibility="Collapsed" >
+                                <Grid Height="150">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition />
+                                    </Grid.ColumnDefinitions>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition />
+                                        <RowDefinition />
+                                        <RowDefinition />
+                                        <RowDefinition />
+                                    </Grid.RowDefinitions>
+                                    <TextBlock Text="Exam" Grid.Column="0" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="23" FontWeight="SemiBold" />
+                                    <TextBlock Text="A" Grid.Column="0" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="23" FontWeight="SemiBold" />
+
+                                    <TextBlock Text="2 Hours" Grid.Column="0" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="13" FontWeight="SemiBold" />
+                                    <Button Grid.Column="0" Grid.Row="3" Background="#42A5F5" BorderBrush="#C78585" Height="32" Margin="0,2,0,0" VerticalAlignment="Top" Click="Button_Click_1">
+                                        View Exam
+                                    </Button>
+
+                                </Grid>
+                            </materialDesign:Card>
+
+
+                        </WrapPanel>
+                    </StackPanel>
+                </materialDesign:Card>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</UserControl>

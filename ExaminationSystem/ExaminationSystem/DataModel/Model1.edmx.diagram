@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="431796675a0144f0a542df286de6bf77" Name="Diagram1">
+        <EntityTypeShape EntityType="Model.Course" Width="1.5" PointX="0.75" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Department" Width="1.5" PointX="3" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Dept_Location" Width="1.5" PointX="5.25" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Exam" Width="1.5" PointX="3" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Instructor" Width="1.5" PointX="8.25" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Quest_Option" Width="1.5" PointX="5.25" PointY="18.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Question" Width="1.5" PointX="3" PointY="18.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Stud_Course_Exam" Width="1.5" PointX="5.25" PointY="10" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Stud_Exam_Quest" Width="1.5" PointX="5.25" PointY="13.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Student" Width="1.5" PointX="3" PointY="12.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.sysdiagram" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Topic" Width="1.5" PointX="3" PointY="15.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.get_All_QuestionMCQ" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.get_All_QuestionTF" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="Model.FK_Sutd_Course_Exam_Course" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Topic_Course" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Department_Instructor" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Dept_Location_Department" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Stud_Exam_Quest_Exam" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Sutd_Course_Exam_Exam" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Quest_Option_Question" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Stud_Exam_Quest_Question" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Sutd_Course_Exam_Student" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Stud_Exam_Quest_Student" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.Dept_Course" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.Exam_Quest" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.Insrt_Dept" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.Instr_Course" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.Stud_Course" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

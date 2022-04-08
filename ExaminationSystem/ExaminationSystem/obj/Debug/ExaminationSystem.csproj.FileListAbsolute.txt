@@ -1,0 +1,167 @@
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.SuggestedBindingRedirects.cache
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\MainWindow.g.cs
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\App.g.cs
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem_Content.g.cs
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem_MarkupCompile.cache
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem_MarkupCompile.lref
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\ExaminationSystem.exe.config
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\ExaminationSystem.exe
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\ExaminationSystem.pdb
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\EntityFramework.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\EntityFramework.SqlServer.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\LiveCharts.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\LiveCharts.Wpf.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\MaterialDesign.Icons.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\MaterialDesignColors.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\EntityFramework.xml
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\LiveCharts.pdb
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\LiveCharts.xml
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\LiveCharts.Wpf.pdb
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\LiveCharts.Wpf.xml
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\MaterialDesignColors.pdb
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\MainWindow.baml
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.g.resources
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.Properties.Resources.resources
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.GenerateResource.cache
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.CoreCompileInputs.cache
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.CopyComplete
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.exe
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.pdb
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\App.baml
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.AssemblyReference.cache
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\Login.g.cs
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\Login.baml
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\HandyControl.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\HandyControl.xml
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\HandyControl.pdb
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\Dialogs\CreateOrUpdateCourse.g.cs
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\Dialogs\CreateOrUpdateCourse.baml
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\CustomComponents\ButtonDesign.baml
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\CustomComponents\ScrollBarDesign.baml
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\UserControls\Dashboard.g.cs
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\UserControls\Dashboard.baml
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\Dialogs\CreateExam.g.cs
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\Dialogs\CreateExam.baml
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\UserControls\CourseDetails.g.cs
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\UserControls\CourseDetails.baml
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\Dialogs\ViewOrSubmitExam.g.cs
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\Dialogs\ViewOrSubmitExam.baml
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.VSDesigner.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.Web.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.Shared.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\CRVsPackageLib.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\EnvDTE.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\VSLangProj.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\VsWebSite.Interop.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\EnvDTE80.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\AxShockwaveFlashObjects.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\stdole.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\ShockwaveFlashObjects.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\Microsoft.MSXML.dll
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\EnvDTE.xml
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\VSLangProj.xml
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\VsWebSite.Interop.xml
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\bin\Debug\EnvDTE80.xml
+E:\ITI\DB\Project\Project\Implementation\Desktop\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.exe.config
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\ExaminationSystem.exe.config
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\ExaminationSystem.exe
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\ExaminationSystem.pdb
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\EntityFramework.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\EntityFramework.SqlServer.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\HandyControl.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\LiveCharts.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\LiveCharts.Wpf.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\MaterialDesign.Icons.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\MaterialDesignColors.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.Shared.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\CRVsPackageLib.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\EnvDTE.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\VSLangProj.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\VsWebSite.Interop.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\EnvDTE80.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\AxShockwaveFlashObjects.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\stdole.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\ShockwaveFlashObjects.dll
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\EntityFramework.xml
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\HandyControl.pdb
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\HandyControl.xml
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\LiveCharts.pdb
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\LiveCharts.xml
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\LiveCharts.Wpf.pdb
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\LiveCharts.Wpf.xml
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\MaterialDesignColors.pdb
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\EnvDTE.xml
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\VSLangProj.xml
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\VsWebSite.Interop.xml
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\EnvDTE80.xml
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.AssemblyReference.cache
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.SuggestedBindingRedirects.cache
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.exe.config
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\CustomComponents\ButtonDesign.baml
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\CustomComponents\ScrollBarDesign.baml
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\Dialogs\CreateExam.g.cs
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\Dialogs\CreateOrUpdateCourse.g.cs
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\Dialogs\ViewOrSubmitExam.g.cs
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\UserControls\CourseDetails.g.cs
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\UserControls\Dashboard.g.cs
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\Login.g.cs
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\MainWindow.g.cs
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\App.g.cs
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem_Content.g.cs
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem_MarkupCompile.cache
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem_MarkupCompile.lref
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\App.baml
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\Dialogs\CreateExam.baml
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\Dialogs\CreateOrUpdateCourse.baml
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\Dialogs\ViewOrSubmitExam.baml
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\UserControls\CourseDetails.baml
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\UserControls\Dashboard.baml
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\Login.baml
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\MainWindow.baml
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.g.resources
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.Properties.Resources.resources
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.GenerateResource.cache
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.CoreCompileInputs.cache
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.CopyComplete
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.exe
+E:\ITI\1. DB\Project\SWA-HabibaKhaledMohamed\Delivery\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.pdb
